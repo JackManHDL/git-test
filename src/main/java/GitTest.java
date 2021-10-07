@@ -4,5 +4,6 @@ public class GitTest {
         System.out.println("hot-fix 正常合并到master");
         System.out.println("正常合并过来");
         System.out.println("ssss");
+        System.out.println("aaaa");
     }
 }
