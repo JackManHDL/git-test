@@ -5,5 +5,6 @@ public class GitTest {
         System.out.println("正常合并过来");
         System.out.println("ssss");
         System.out.println("aaaa");
+        System.out.println("gggg");
     }
 }
